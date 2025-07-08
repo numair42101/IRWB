@@ -1,0 +1,10 @@
+CREATE TABLE USS (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  username VARCHAR(50),
+  password VARCHAR(100)
+);
+
+INSERT INTO USS (username, password) VALUES 
+('admin', 'admin123'),
+('hacker', 'h4ck3r'),
+('guest', 'guest');
