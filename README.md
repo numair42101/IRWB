@@ -38,3 +38,6 @@
 git clone https://github.com/TahaHatami/IRWB.git
 cd IRWB
 # اجرای پروژه روی وب‌سرور محلی یا هاست موردنظر
+بخشی از محیط
+![View](Screenshot.png)
+
