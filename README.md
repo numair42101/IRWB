@@ -58,7 +58,12 @@
 - کاملاً متن باز با امکان مشارکت جامعه  
 
 ---
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+© 2025 Taha Hatami — [GitHub](https://github.com/TahaHatami)
+---
 ## 📦 نحوه استفاده
 
 ```bash
